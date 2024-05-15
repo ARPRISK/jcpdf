@@ -1,7 +1,9 @@
 Para executar esse código, você precisará ter as seguintes bibliotecas instaladas:
 
 pip install pdfrw
+
 pip install pandas
+
 pip install unidecode
 
 Tkinter:
